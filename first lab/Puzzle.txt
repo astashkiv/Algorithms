@@ -1,0 +1,10 @@
+Horse, 30, 40 , 110
+Mountain, 50, 60, 80
+Lion, 20, 34, 110
+Computer, 34, 23, 56
+City, 32, 12, 45
+Cat, 32, 15, 58
+Sea, 74, 12, 14
+River, 89, 43, 43
+Pelikan, 23, 32, 54
+Pinguin, 32, 13, 35
